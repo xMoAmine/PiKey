@@ -1,0 +1,14 @@
+(dp0
+S'Midi Input Channel'
+p1
+I1
+sS'Highest Note'
+p2
+I96
+sS'Lowest Note'
+p3
+I21
+sS'Fullscreen'
+p4
+I0
+s.
