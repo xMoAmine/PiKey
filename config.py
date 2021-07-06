@@ -109,6 +109,7 @@ DEFAULTplayertrack = 0
 
 # ---------------------------------------------------------------------------------------------
 # it is not recommended to mess with the following, but you can if you know what you're doing:
+# pygame org
 # resolution = # of ticks per beat.  
 EDITresolution = 5040   # (1 * 2 * 3 * 2 * 5 * 7 * 2 * 3 * 2 * 2 * 2)/4 
                         # if EDITresolution = 5040, and if there are four beats per measure,
